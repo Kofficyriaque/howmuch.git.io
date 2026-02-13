@@ -5,7 +5,8 @@ __pycache__/
 *.pkl
 *.db
 .env.secret
-app/config.py
+.idea
+
 # Logs
 logs
 *.log
